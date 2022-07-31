@@ -1,0 +1,49 @@
+{
+    "name": "electricity",
+    "children": [
+     {
+      "name": "commercial",
+      "children": [
+       {"name": "refrigerators and freezers", "size": 186.12},
+       {"name": "computers", "size": 174.24},
+       {"name": "space cooling", "size": 150.48},
+       {"name": "lighting", "size": 149.16},
+       {"name": "ventilation", "size": 143.88},
+       {"name": "space cooling", "size": 40.92},
+       {"name": "all other uses", "size": 475.2}
+      ]
+     },
+     {
+      "name": "residential",
+      "children": [
+       {"name": "space cooling", "size": 229.4},
+       {"name": "space heating", "size": 224.96},
+       {"name": "water heating", "size": 171.68},
+       {"name": "refrigerators and freezers", "size": 105.08},
+       {"name": "lighting", "size": 57.72},
+       {"name": "televisons", "size": 54.76},
+       {"name": "computers", "size": 35.52},
+       {"name": "all other uses", "size": 600.88}
+      ]
+     },
+     {
+      "name": "transportation", "size": 0
+     },
+     {
+      "name": "industrial",
+      "children": [
+       {"name": "machine drive", "size": 510.84},
+       {"name": "water heating", "size": 109.89},
+       {"name": "ventilation", "size": 83.16},
+       {"name": "electrochemical process", "size": 81.18},
+       {"name": "all other uses", "size": 63.36},
+       {"name": "lighting", "size": 58.41},
+       {"name": "refrigerators and freezers", "size": 83.16}
+      ]
+     },
+     {"name": "direct","size":9.9}
+
+
+      ]
+     }
+    
